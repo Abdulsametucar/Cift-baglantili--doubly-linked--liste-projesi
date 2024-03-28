@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700755210 source:c:\users\samet uçar\desktop\odev_vize_veri_yapilari\odev_vize\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
